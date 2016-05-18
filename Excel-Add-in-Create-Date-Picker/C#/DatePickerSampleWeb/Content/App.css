@@ -1,0 +1,15 @@
+﻿.padding {
+    padding: 15px;
+}
+
+button 
+{ 
+     position:relative; 
+     top: 250px; 
+     left: 100px; 
+} 
+
+#alternate
+{
+    visibility:hidden;
+}

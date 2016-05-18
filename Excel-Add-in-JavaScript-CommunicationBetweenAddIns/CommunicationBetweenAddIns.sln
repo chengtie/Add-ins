@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationBetweenAddInsTaskPane", "CommunicationBetweenAddInsTaskPane\CommunicationBetweenAddInsTaskPane.csproj", "{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationBetweenAddinsTaskPaneWeb", "CommunicationBetweenAddInsTaskPaneWeb\CommunicationBetweenAddinsTaskPaneWeb.csproj", "{2F2C5513-354A-4C68-9C4C-C8F1DD2D8AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationBetweenAddInsContent", "CommunicationBetweenAddInsContent\CommunicationBetweenAddInsContent.csproj", "{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationBetweenAddInsContentWeb", "CommunicationBetweenAddInsContentWeb\CommunicationBetweenAddInsContentWeb.csproj", "{AB2E81D6-F3FD-427D-A56F-6167818C3FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B10339-E1EB-4CDD-B00B-E53C94E8CCD5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2F2C5513-354A-4C68-9C4C-C8F1DD2D8AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2C5513-354A-4C68-9C4C-C8F1DD2D8AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2C5513-354A-4C68-9C4C-C8F1DD2D8AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2C5513-354A-4C68-9C4C-C8F1DD2D8AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91BAF3F-3F54-49A3-9EAA-2DA2EC00DC5E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AB2E81D6-F3FD-427D-A56F-6167818C3FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2E81D6-F3FD-427D-A56F-6167818C3FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2E81D6-F3FD-427D-A56F-6167818C3FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2E81D6-F3FD-427D-A56F-6167818C3FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

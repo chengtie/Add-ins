@@ -11,7 +11,8 @@
     <Host Name="Workbook" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="~remoteAppUrl/App/Home/Home.html" />
+  <!--  <SourceLocation DefaultValue="~remoteAppUrl/App/Home/Home.html" /> -->
+    <SourceLocation DefaultValue="https://localhost/Startup/Add-ins/Excel-Add-in-JavaScript-GetSelectionChangeCoordinates/DisplayExcelSelectionCoordinatesWeb/App/Home/Home.html" />
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
